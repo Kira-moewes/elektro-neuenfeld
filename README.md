@@ -4,7 +4,7 @@ Entwurf einer Website für einen Elektrobetrieb: Leistungen, Bauvorhaben, E-Chec
 
 Alle Namen, Adressen und Kontaktdaten sind fiktiv.
 
-- **Live ansehen:** https://kira-moewes.github.io/portfolio/p/elektro-neuenfeld/
+- **Live ansehen:** https://kira-moewes.github.io/elektro-neuenfeld/
 - **Technik:** eine einzige HTML-Datei (HTML, CSS, JavaScript), ohne Framework und ohne Build-Schritt. Lokal öffnen: `index.html` im Browser.
 
 Portfolio-Projekt von Kira Moewes · https://kira-moewes.github.io/portfolio/
